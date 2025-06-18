@@ -26,5 +26,5 @@ An interactive Power BI dashboard that provides a comprehensive analysis of sale
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot
+[Dashboard Screenshot](https://github.com/shravanijoshi14/Sales-Insights-Dashboard/blob/main/Sales_Insights.png)
 
